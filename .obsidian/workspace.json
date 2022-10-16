@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c6dd12542e1de44a",
+        "id": "1905361209cce709",
         "type": "tabs",
         "children": [
           {
-            "id": "51735ba2c233ddf7",
+            "id": "35a2e617aafe96a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Інтерфейси/TableLayout.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9689e7fc8f131ed5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Інтерфейси/Проєктування інтерфейсу користувача.md",
+                "file": "Створення нової Activity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Інтерфейси/Проєктування інтерфейсу користувача.md",
+                "file": "Створення нової Activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Інтерфейси/Проєктування інтерфейсу користувача.md",
+                "file": "Створення нової Activity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Інтерфейси/Проєктування інтерфейсу користувача.md"
+                "file": "Створення нової Activity.md"
               }
             }
           }
@@ -152,12 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9689e7fc8f131ed5",
+  "active": "35a2e617aafe96a6",
   "lastOpenFiles": [
+    "Activity.md",
+    "Створення нової Activity.md",
+    "Android Manifest.md",
     "Інтерфейси/ConstraintLayout.md",
     "Інтерфейси/TableLayout.md",
+    "Інтерфейси/Проєктування інтерфейсу користувача.md",
+    "_assets/Pasted image 20221016220000.png",
+    "_assets/Знімок екрана 2022-10-16 215820.png",
     "Інтерфейси/FrameLayout.md",
-    "Інтерфейси/LinearLayout.md",
-    "Інтерфейси/RelativeLayout.md"
+    "Інтерфейси/LinearLayout.md"
   ]
 }
