@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1905361209cce709",
+        "id": "3a739579d88ba0bf",
         "type": "tabs",
         "children": [
           {
-            "id": "35a2e617aafe96a6",
+            "id": "7cfd6d9e2e842ffa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Створення нової Activity.md",
+                "file": "Fragment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Створення нової Activity.md",
+                "file": "Fragment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Створення нової Activity.md",
+                "file": "Fragment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Створення нової Activity.md"
+                "file": "Fragment.md"
               }
             }
           }
@@ -139,17 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "35a2e617aafe96a6",
+  "active": "7cfd6d9e2e842ffa",
   "lastOpenFiles": [
-    "Activity.md",
+    "Транзакції.md",
+    "Fragment.md",
+    "Створення Fragment.md",
     "Створення нової Activity.md",
     "Android Manifest.md",
-    "Інтерфейси/ConstraintLayout.md",
-    "Інтерфейси/TableLayout.md",
-    "Інтерфейси/Проєктування інтерфейсу користувача.md",
-    "_assets/Pasted image 20221016220000.png",
-    "_assets/Знімок екрана 2022-10-16 215820.png",
+    "Activity.md",
+    "_assets/Pasted image 20221017101630.png",
+    "інтерфейсу.md",
     "Інтерфейси/FrameLayout.md",
-    "Інтерфейси/LinearLayout.md"
+    "Інтерфейси/ConstraintLayout.md"
   ]
 }
