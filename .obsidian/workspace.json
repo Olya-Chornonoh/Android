@@ -1,19 +1,43 @@
 {
   "main": {
-    "id": "dfdc42d28851edef",
+    "id": "2bb44eb590095441",
     "type": "split",
     "children": [
       {
-        "id": "3a739579d88ba0bf",
+        "id": "72c070f9e606ab50",
         "type": "tabs",
         "children": [
           {
-            "id": "7cfd6d9e2e842ffa",
+            "id": "380fc7f9c215bb27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fragment.md",
+                "file": "Service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2375633b87dcebd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Broadcast Receiver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a90e4f8de62adee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content Provider.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +49,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7ae62656ade40f3c",
+    "id": "2ab6acc7bb8643ed",
     "type": "split",
     "children": [
       {
-        "id": "abd0ab230b1fd5fc",
+        "id": "317180c433a4d64a",
         "type": "tabs",
         "children": [
           {
-            "id": "d2e911d5804a8d70",
+            "id": "4556671621356622",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +67,7 @@
             }
           },
           {
-            "id": "c3f35ac7b5d1ca5e",
+            "id": "19ab8ee4d485c948",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +82,7 @@
             }
           },
           {
-            "id": "e20cdf17c9756ab3",
+            "id": "482f818bda034cd9",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -69,23 +93,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "bac2a07b21ce7b28",
+    "id": "0348c24f84f3fed6",
     "type": "split",
     "children": [
       {
-        "id": "d376d8ea88805010",
+        "id": "75c59ddf79e66eb4",
         "type": "tabs",
         "children": [
           {
-            "id": "fcb6387a5db952a5",
+            "id": "396d67bbc25b9c8b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fragment.md",
+                "file": "Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +121,19 @@
             }
           },
           {
-            "id": "2826fc8ca0744e11",
+            "id": "ceca515f7feff195",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fragment.md",
+                "file": "Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "166c6fee6fbb2502",
+            "id": "402a93ad4771d537",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +144,12 @@
             }
           },
           {
-            "id": "237cb32670e351cd",
+            "id": "9bda56d7bdbaf7c7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fragment.md"
+                "file": "Service.md"
               }
             }
           }
@@ -139,17 +163,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7cfd6d9e2e842ffa",
+  "active": "380fc7f9c215bb27",
   "lastOpenFiles": [
-    "Транзакції.md",
-    "Fragment.md",
-    "Створення Fragment.md",
-    "Створення нової Activity.md",
-    "Android Manifest.md",
     "Activity.md",
+    "Content Provider.md",
+    "Broadcast Receiver.md",
+    "Service.md",
+    "Приклад.md",
     "_assets/Pasted image 20221017101630.png",
-    "інтерфейсу.md",
-    "Інтерфейси/FrameLayout.md",
-    "Інтерфейси/ConstraintLayout.md"
+    "_assets/Pasted image 20221016223519.png",
+    "_assets/Pasted image 20221016222551.png",
+    "Створення нової Activity.md",
+    "Транзакції.md"
   ]
 }
