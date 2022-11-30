@@ -162,10 +162,10 @@
   },
   "active": "365fd2ba4e1a3ebc",
   "lastOpenFiles": [
-    "Activity.md",
-    "Activity/03. Життєвий цикл Activity.md",
     "Activity/02. Реєстрація Activity.md",
     "Activity/01. Концепція Activity.md",
+    "Activity/03. Життєвий цикл Activity.md",
+    "Activity.md",
     "Activity/04. Збереження та відновлення стану інтерфейсу.md",
     "Activity/Activity.md",
     "Створення нової Activity.md",
