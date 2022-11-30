@@ -1,4 +1,12 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "_assets"
+  "attachmentFolderPath": "_assets",
+  "alwaysUpdateLinks": false,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "uk"
+  ],
+  "vimMode": false
 }
